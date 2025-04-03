@@ -1,6 +1,6 @@
 # AI-Robotics-Project
 Object detection for robotic arms using YOLOv8
-# AI-Robotics-Project
+
 
 ## Phase 1: Object Detection for Robotic Arm
 - Uses YOLOv8 to detect cups/bottles
