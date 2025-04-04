@@ -15,5 +15,7 @@
 
 ## Challenges  
 - Initially missed small objects  
-- Fixed by adjusting confidence threshold to 0.7  
+- Fixed by adjusting confidence threshold to 0.7
+
+The objects are in this link https://tech.amikelive.com/node-718/what-object-categories-labels-are-in-coco-dataset/
 
